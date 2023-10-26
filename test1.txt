@@ -2,4 +2,9 @@ I am a looser
 i need to change my life!
 i believe in my self.......
 i have completed my BSc in computer science and engineering.
+<<<<<<< HEAD
+i will complete my MSc from a forign university.
+Inshallah i will complete my all dreams...!!!!!
+=======
 i will complete my MSc from a forign university.specially from American university.
+>>>>>>> 8a2bfb01afdc40fb5640fbca298886d5666f02dc
